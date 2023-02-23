@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @HenegarCodes
 - 👀 currently working on mastering Java further. Also have enjoyed lesrning Python in depth. looking to join in on any projects I can help with!
-- 💞️ 
 - 📫 How to reach me Linkedin: Spencer Henegar
 
 <!---
