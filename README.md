@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @HenegarCodes
-- 👀 I’m interested in Web Development specifically frontend using Javascript
-- 🌱 I’m currently learning and masterig the basics of HTML and CSS
-- 💞️ I’m looking to collaborate on any projects where i can not only learn but help on with a team
-- 📫 How to reach me instagram: @Henegar.Codes
+- 👀 currently working on mastering Java further. Also have enjoyed lesrning Python in depth. looking to join in on any projects I can help with!
+- 💞️ 
+- 📫 How to reach me Linkedin: Spencer Henegar
 
 <!---
 HenegarCodes/HenegarCodes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
