@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=henegarcodes" alt="henegarcodes" /></a> </p>
 
-- 🔭 I’m currently working on [A To Do List](https://github.com/HenegarCodes/ToDoList)
-
 - 🌱 I’m currently learning **Javascript, Node.js, MySQL, NoSQL, APIs, and many more items.**
 
 - 👯 I’m looking to collaborate on **Full stack or Frontend project.s**
