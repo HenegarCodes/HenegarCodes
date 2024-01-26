@@ -8,7 +8,7 @@ Dedicated and passionate Software Engineer with a profound commitment to the art
 
 - 🌱 I’m currently learning **MERN & State**
 
-- 👨‍💻 All of my projects are available at [<a href="https://spencer-henegar.netlify.app/"></a>](https://spencer-henegar.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://spencer-henegar.netlify.app/](https://spencer-henegar.netlify.app/)
 
 - 💬 Ask me about **React, NoSQL, MySQL, and MERN**
 
