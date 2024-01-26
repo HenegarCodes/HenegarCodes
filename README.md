@@ -6,15 +6,13 @@ Dedicated and passionate Software Engineer with a profound commitment to the art
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=henegarcodes" alt="henegarcodes" /></a> </p>
 
-- 🌱 I’m currently learning **MERN**
+- 🌱 I’m currently learning **MERN & State**
 
-- 👨‍💻 All of my projects are available at [Under Construction](Under Construction)
+- 👨‍💻 All of my projects are available at <a href="https://spencer-henegar.netlify.app/"></a>
 
-- 💬 Ask me about **React, NoSQL, MySQL, and TailwindCSS**
+- 💬 Ask me about **React, NoSQL, MySQL, and MERN**
 
 - 📫 How to reach me **SpencerRHenegar@gmail.com**
-
-- 📄 Know about my experiences [https://docs.google.com/document/d/1XAeGztYx3f16moOJbWOz_jt2PQPuhcDakvjaWALTBcw/edit?usp=sharing](https://docs.google.com/document/d/1XAeGztYx3f16moOJbWOz_jt2PQPuhcDakvjaWALTBcw/edit?usp=sharing)
 
 - ⚡ Fun fact **I love Baseball and the Gym.**
 
