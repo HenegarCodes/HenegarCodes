@@ -14,7 +14,6 @@ Dedicated and passionate Software Engineer with a profound commitment to the art
 
 - 📫 How to reach me **SpencerRHenegar@gmail.com**
 
-- ⚡ Fun fact **I love Baseball and the Gym.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
