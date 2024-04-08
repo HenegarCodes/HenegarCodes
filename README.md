@@ -6,11 +6,11 @@ Dedicated and passionate Software Engineer with a profound commitment to the art
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=henegarcodes" alt="henegarcodes" /></a> </p>
 
-- 🌱 I’m currently learning **C#, and Java**
+- 🌱 I’m currently learning **A Job portal MERN stack application and a Freight FLow app**
 
 - 👨‍💻 All of my projects are available at [https://spencer-henegar.netlify.app/](https://spencer-henegar.netlify.app/)
 
-- 💬 Ask me about **React, NoSQL, MySQL, and MERN**
+- 💬 Ask me about **MERN**
 
 - 📫 How to reach me **SpencerRHenegar@gmail.com**
 
