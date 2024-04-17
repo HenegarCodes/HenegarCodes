@@ -6,7 +6,7 @@ Dedicated and passionate Software Engineer with a profound commitment to the art
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=henegarcodes" alt="henegarcodes" /></a> </p>
 
-- 🌱 I’m currently learning **A Job portal MERN stack application and a Freight FLow app**
+- 🌱 I’m currently learning **A Job portal MERN stack application and a Freight Flow app**
 
 - 👨‍💻 All of my projects are available at [https://spencer-henegar.netlify.app/](https://spencer-henegar.netlify.app/)
 
