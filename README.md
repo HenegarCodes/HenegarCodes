@@ -1,6 +1,6 @@
 <h1 align="center">Hi , I'm Spencer Henegar</h1>
 <h3 align="center">
-Dedicated and passionate Software Engineer with a profound commitment to the art and science of software development. Embracing each project with enthusiasm, I approach my work as more than just a profession—it's a journey of continuous exploration and innovation. As a life-long learner, I thrive on the ever-evolving nature of technology, staying at the forefront of advancements to deliver cutting-edge solutions.</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=henegarcodes&label=Profile%20views&color=0e75b6&style=flat" alt="henegarcodes" /> </p>
 
