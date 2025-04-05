@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Freight Flow (https://freight-flow.onrender.com)<br>👯 I’m looking to collaborate on Open Source Projects<br>🌱 I’m currently learning Python<br>
+🔭 I’m currently working on a Github Trading Card site <br>👯 I’m looking to collaborate on Open Source Projects<br>🌱 
 
 
 ## 🌐 Socials:
